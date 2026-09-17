@@ -1,0 +1,266 @@
+{
+  "id": "ai-tools",
+  "keyword": "AI Tools",
+  "category": "Artificial Intelligence & Generative Tech",
+  "summary": "Massive developer and enterprise interest in multimodal AI agents, local LLM deployment, and AI coding assistants.",
+  "lastUpdated": "2 mins ago",
+  "overview": {
+    "totalPosts": 890,
+    "positiveSentimentPct": 74,
+    "activeUsers": 26400,
+    "trendingTopicsCount": 6,
+    "postGrowthPct": 42.1,
+    "activeUsersGrowthPct": 33.5,
+    "platformActivity": [
+      { "platform": "Twitter", "posts": 280, "engagement": 94000, "sentimentScore": 76, "color": "#0284C7" },
+      { "platform": "Telegram", "posts": 95, "engagement": 24000, "sentimentScore": 70, "color": "#0D9488" },
+      { "platform": "Instagram", "posts": 160, "engagement": 78000, "sentimentScore": 82, "color": "#2563EB" },
+      { "platform": "YouTube", "posts": 140, "engagement": 142000, "sentimentScore": 78, "color": "#DC2626" },
+      { "platform": "Reddit", "posts": 135, "engagement": 58000, "sentimentScore": 65, "color": "#EA580C" },
+      { "platform": "Facebook", "posts": 80, "engagement": 21000, "sentimentScore": 69, "color": "#1D4ED8" }
+    ],
+    "sentimentBreakdown": {
+      "positive": 74,
+      "neutral": 16,
+      "negative": 10
+    },
+    "trendingKeywords": [
+      { "keyword": "#AIAgents", "count": 4120, "change": "+88%" },
+      { "keyword": "Open Source Models", "count": 3200, "change": "+54%" },
+      { "keyword": "IndiaAI Mission", "count": 2900, "change": "+62%" },
+      { "keyword": "Code Generation Benchmark", "count": 2100, "change": "+41%" },
+      { "keyword": "Autonomous Workflows", "count": 1750, "change": "+33%" }
+    ]
+  },
+  "sentiment": {
+    "breakdown": {
+      "positive": 74,
+      "neutral": 16,
+      "negative": 10
+    },
+    "emotions": [
+      {
+        "emotion": "Excited",
+        "percentage": 45,
+        "count": 401,
+        "icon": "Sparkles",
+        "sampleQuote": "The speed at which autonomous agents can scaffold enterprise apps is simply mind-blowing!",
+        "color": "#10B981"
+      },
+      {
+        "emotion": "Supportive",
+        "percentage": 29,
+        "count": 258,
+        "icon": "ThumbsUp",
+        "sampleQuote": "Great to see Indian startups building indigenous foundation models under IndiaAI.",
+        "color": "#2563EB"
+      },
+      {
+        "emotion": "Angry",
+        "percentage": 8,
+        "count": 71,
+        "icon": "Flame",
+        "sampleQuote": "Subscription prices for pro AI tiers are getting completely out of hand.",
+        "color": "#EF4444"
+      },
+      {
+        "emotion": "Concerned",
+        "percentage": 12,
+        "count": 107,
+        "icon": "AlertTriangle",
+        "sampleQuote": "Will entry-level developer roles be squeezed by ultra-fast coding copilots?",
+        "color": "#F59E0B"
+      },
+      {
+        "emotion": "Sarcastic",
+        "percentage": 6,
+        "count": 53,
+        "icon": "Smile",
+        "sampleQuote": "Waiting for an AI to attend my meetings so another AI can summarize it for me.",
+        "color": "#64748B"
+      }
+    ],
+    "timeline": [
+      { "time": "00:00", "positive": 68, "neutral": 20, "negative": 12, "totalVolume": 80 },
+      { "time": "04:00", "positive": 70, "neutral": 19, "negative": 11, "totalVolume": 65 },
+      { "time": "08:00", "positive": 72, "neutral": 18, "negative": 10, "totalVolume": 190 },
+      { "time": "12:00", "positive": 76, "neutral": 15, "negative": 9, "totalVolume": 280 },
+      { "time": "16:00", "positive": 78, "neutral": 14, "negative": 8, "totalVolume": 310 },
+      { "time": "20:00", "positive": 74, "neutral": 16, "negative": 10, "totalVolume": 220 }
+    ]
+  },
+  "demographics": {
+    "ageGroups": [
+      { "range": "18-24", "percentage": 44, "count": 392, "color": "#2563EB" },
+      { "range": "25-34", "percentage": 41, "count": 365, "color": "#0284C7" },
+      { "range": "35-44", "percentage": 11, "count": 98, "color": "#0D9488" },
+      { "range": "45+", "percentage": 4, "count": 35, "color": "#F59E0B" }
+    ],
+    "languages": [
+      { "language": "English", "percentage": 58, "count": 516, "color": "#2563EB" },
+      { "language": "Hindi", "percentage": 24, "count": 214, "color": "#0D9488" },
+      { "language": "Telugu", "percentage": 10, "count": 89, "color": "#0284C7" },
+      { "language": "Tamil", "percentage": 8, "count": 71, "color": "#F59E0B" }
+    ],
+    "locations": [
+      { "city": "Bangalore", "state": "Karnataka", "mentions": 340, "growth": 48, "sentiment": 82, "topTrend": "AI Founders Meetup HSR", "coordinates": { "x": 46, "y": 74 } },
+      { "city": "Hyderabad", "state": "Telangana", "mentions": 280, "growth": 42, "sentiment": 78, "topTrend": "T-Hub GenAI Cohort", "coordinates": { "x": 48, "y": 62 } },
+      { "city": "Delhi", "state": "NCR", "mentions": 160, "growth": 28, "sentiment": 71, "topTrend": "Govt AI Policy Conclave", "coordinates": { "x": 44, "y": 28 } },
+      { "city": "Mumbai", "state": "Maharashtra", "mentions": 110, "growth": 25, "sentiment": 73, "topTrend": "Fintech AI Automation", "coordinates": { "x": 34, "y": 55 } }
+    ],
+    "professions": [
+      { "profession": "IT Professionals", "percentage": 52, "count": 463, "color": "#2563EB" },
+      { "profession": "Students", "percentage": 31, "count": 276, "color": "#0284C7" },
+      { "profession": "Business", "percentage": 12, "count": 107, "color": "#0D9488" },
+      { "profession": "Government Employees", "percentage": 5, "count": 44, "color": "#F59E0B" }
+    ]
+  },
+  "trendDetection": {
+    "topTopics": [
+      { "id": "ai-1", "title": "AI Tools", "category": "Dev Ecosystem", "trendScore": 98, "growthPercentage": 89, "mentionCount": 5420, "sparkline": [40, 52, 68, 79, 91, 98], "status": "Surging" },
+      { "id": "ai-2", "title": "IndiaAI Mission", "category": "National Compute", "trendScore": 91, "growthPercentage": 72, "mentionCount": 3890, "sparkline": [35, 45, 60, 71, 84, 91], "status": "Surging" },
+      { "id": "ai-3", "title": "Autonomous Agents", "category": "Automation", "trendScore": 86, "growthPercentage": 58, "mentionCount": 2980, "sparkline": [48, 55, 64, 72, 80, 86], "status": "Surging" },
+      { "id": "ai-4", "title": "Local LLM Inference", "category": "Open Weights", "trendScore": 82, "growthPercentage": 44, "mentionCount": 2450, "sparkline": [50, 58, 65, 71, 78, 82], "status": "Steady" },
+      { "id": "ai-5", "title": "AI Ethics & Safety", "category": "Governance", "trendScore": 75, "growthPercentage": 29, "mentionCount": 1820, "sparkline": [42, 49, 57, 63, 71, 75], "status": "Steady" }
+    ],
+    "viralKeywords": [
+      { "rank": 1, "keyword": "Agentic Workflows", "mentions": 4820, "growth": 95, "platform": "Twitter", "sentiment": "Positive" },
+      { "rank": 2, "keyword": "Ollama + DeepSeek", "mentions": 3950, "growth": 84, "platform": "Reddit", "sentiment": "Positive" },
+      { "rank": 3, "keyword": "India GPU Cluster", "mentions": 3120, "growth": 68, "platform": "YouTube", "sentiment": "Positive" },
+      { "rank": 4, "keyword": "AI Job Disruption", "mentions": 2450, "growth": 45, "platform": "Twitter", "sentiment": "Negative" },
+      { "rank": 5, "keyword": "Vibe Coding Tools", "mentions": 2100, "growth": 41, "platform": "Instagram", "sentiment": "Positive" }
+    ],
+    "growthTimeline": [
+      { "time": "00:00", "topic1": 40, "topic2": 35, "topic3": 48, "topic4": 50, "topic5": 42 },
+      { "time": "04:00", "topic1": 52, "topic2": 45, "topic3": 55, "topic4": 58, "topic5": 49 },
+      { "time": "08:00", "topic1": 68, "topic2": 60, "topic3": 64, "topic4": 65, "topic5": 57 },
+      { "time": "12:00", "topic1": 79, "topic2": 71, "topic3": 72, "topic4": 71, "topic5": 63 },
+      { "time": "16:00", "topic1": 91, "topic2": 84, "topic3": 80, "topic4": 78, "topic5": 71 },
+      { "time": "20:00", "topic1": 98, "topic2": 91, "topic3": 86, "topic4": 82, "topic5": 75 }
+    ]
+  },
+  "networkAnalysis": {
+    "nodes": [
+      { "id": "inf-ai-1", "name": "AI Researcher X", "role": "influencer", "platform": "Twitter", "followers": "680K", "influenceScore": 98, "x": 280, "y": 170, "radius": 28, "cluster": "central" },
+      { "id": "inf-ai-2", "name": "CodeWithAI YT", "role": "influencer", "platform": "YouTube", "followers": "520K", "influenceScore": 92, "x": 490, "y": 140, "radius": 24, "cluster": "tech_media" },
+      { "id": "inf-ai-3", "name": "OpenSource Hub", "role": "influencer", "platform": "Telegram", "followers": "240K", "influenceScore": 87, "x": 390, "y": 330, "radius": 22, "cluster": "cyber_ops" },
+      { "id": "ai-f1", "name": "Prompt Engineers", "role": "follower", "platform": "Twitter", "followers": "32K", "influenceScore": 58, "x": 170, "y": 130, "radius": 14, "cluster": "central" },
+      { "id": "ai-f2", "name": "FullStack Hackers", "role": "follower", "platform": "Reddit", "followers": "28K", "influenceScore": 54, "x": 190, "y": 270, "radius": 13, "cluster": "central" },
+      { "id": "ai-f3", "name": "Dev Tutorial Guild", "role": "follower", "platform": "YouTube", "followers": "45K", "influenceScore": 60, "x": 600, "y": 130, "radius": 15, "cluster": "tech_media" },
+      { "id": "ai-f4", "name": "AI Paper Summaries", "role": "follower", "platform": "Telegram", "followers": "38K", "influenceScore": 59, "x": 550, "y": 250, "radius": 14, "cluster": "tech_media" },
+      { "id": "ai-f5", "name": "Model Fine-Tuners", "role": "follower", "platform": "Reddit", "followers": "29K", "influenceScore": 52, "x": 270, "y": 390, "radius": 13, "cluster": "cyber_ops" },
+      { "id": "ai-f6", "name": "Student AI Lab", "role": "follower", "platform": "Instagram", "followers": "18K", "influenceScore": 44, "x": 480, "y": 390, "radius": 12, "cluster": "cyber_ops" },
+      { "id": "ai-f7", "name": "Benchmark Aggregator", "role": "amplification_node", "platform": "Cross-Platform", "followers": "85K", "influenceScore": 75, "x": 380, "y": 210, "radius": 18, "cluster": "central" }
+    ],
+    "links": [
+      { "source": "inf-ai-1", "target": "ai-f1", "strength": 4 },
+      { "source": "inf-ai-1", "target": "ai-f2", "strength": 3 },
+      { "source": "inf-ai-1", "target": "ai-f7", "strength": 5 },
+      { "source": "inf-ai-2", "target": "ai-f3", "strength": 4 },
+      { "source": "inf-ai-2", "target": "ai-f4", "strength": 3 },
+      { "source": "inf-ai-2", "target": "ai-f7", "strength": 4 },
+      { "source": "inf-ai-3", "target": "ai-f5", "strength": 3 },
+      { "source": "inf-ai-3", "target": "ai-f6", "strength": 3 },
+      { "source": "inf-ai-3", "target": "ai-f7", "strength": 4 },
+      { "source": "inf-ai-1", "target": "inf-ai-2", "strength": 3 }
+    ],
+    "topInfluencers": [
+      { "name": "AI Researcher X (Dr. Ananya S.)", "handle": "@ananya_ai", "platform": "Twitter", "followers": "680K", "followersCount": 680000, "influenceScore": 98, "verified": true, "reach": "2.9M" },
+      { "name": "CodeWithAI YT", "handle": "@codewithai", "platform": "YouTube", "followers": "520K", "followersCount": 520000, "influenceScore": 92, "verified": true, "reach": "2.1M" },
+      { "name": "OpenSource Hub", "handle": "@oss_llm_india", "platform": "Telegram", "followers": "240K", "followersCount": 240000, "influenceScore": 87, "verified": true, "reach": "920K" },
+      { "name": "Karthik BuildSpace", "handle": "@karthik_builds", "platform": "Twitter", "followers": "140K", "followersCount": 140000, "influenceScore": 82, "verified": false, "reach": "510K" },
+      { "name": "Prompt Masters India", "handle": "@promptmasters_in", "platform": "Instagram", "followers": "115K", "followersCount": 115000, "influenceScore": 79, "verified": false, "reach": "410K" }
+    ],
+    "highlights": {
+      "mostInfluential": {
+        "title": "Most Influential User",
+        "name": "Dr. Ananya S. (@ananya_ai)",
+        "handle": "@ananya_ai",
+        "metric": "98/100",
+        "metricLabel": "Influence Score",
+        "platform": "Twitter",
+        "growth": "+22.5% virality",
+        "description": "Benchmark comparison threads frequently quoted by national tech publications."
+      },
+      "fastestGrowing": {
+        "title": "Fastest Growing User",
+        "name": "CodeWithAI (@codewithai)",
+        "handle": "@codewithai",
+        "metric": "+42.1K",
+        "metricLabel": "New Subscribers / 24h",
+        "platform": "YouTube",
+        "growth": "+64.2% velocity",
+        "description": "10-minute live demo of local model fine-tuning went viral across engineering colleges."
+      },
+      "highestEngagement": {
+        "title": "Highest Engagement User",
+        "name": "OpenSource Hub (@oss_llm_india)",
+        "handle": "@oss_llm_india",
+        "metric": "24.8%",
+        "metricLabel": "Avg Interaction Rate",
+        "platform": "Telegram",
+        "growth": "Top retention rate",
+        "description": "High discussion frequency on quantized models and GPU benchmarks."
+      }
+    }
+  },
+  "timelineAnalysis": {
+    "events": [
+      {
+        "time": "08:30 AM",
+        "title": "Keyword started trending",
+        "description": "Announcement of the new open-weights reasoning model initiated high-speed discussion on developer forums.",
+        "platform": "Twitter & Reddit",
+        "sentiment": "Positive",
+        "reach": "24.5K accounts"
+      },
+      {
+        "time": "11:15 AM",
+        "title": "Influencer shared post",
+        "description": "Dr. Ananya S. benchmarked the model on coding tasks, confirming 30% faster inference on consumer GPUs.",
+        "platform": "Twitter",
+        "sentiment": "Positive",
+        "reach": "320K impressions"
+      },
+      {
+        "time": "01:30 PM",
+        "title": "Sentiment spike detected",
+        "description": "Enthusiastic responses as creators demonstrated live integration with local IDE plugins.",
+        "platform": "YouTube & X",
+        "sentiment": "Positive",
+        "reach": "640K engagements"
+      },
+      {
+        "time": "04:30 PM",
+        "title": "Peak engagement",
+        "description": "Trending #1 worldwide under Artificial Intelligence with over 2,400 mentions/min.",
+        "platform": "Cross-Platform",
+        "sentiment": "Positive",
+        "reach": "1.4M impressions"
+      },
+      {
+        "time": "07:30 PM",
+        "title": "Trend declined",
+        "description": "Transitioned to hands-on testing and GitHub repository fork discussions.",
+        "platform": "GitHub & Telegram",
+        "sentiment": "Neutral",
+        "reach": "Residual 85K/hr"
+      }
+    ],
+    "mentionsVsTime": [
+      { "time": "08:00 AM", "mentions": 350, "sentimentRatio": 66 },
+      { "time": "09:00 AM", "mentions": 890, "sentimentRatio": 70, "highlight": "08:30 AM - Started Trending" },
+      { "time": "10:00 AM", "mentions": 1640, "sentimentRatio": 72 },
+      { "time": "11:00 AM", "mentions": 2980, "sentimentRatio": 76, "highlight": "11:15 AM - Influencer Shared" },
+      { "time": "12:00 PM", "mentions": 4100, "sentimentRatio": 78 },
+      { "time": "01:00 PM", "mentions": 5200, "sentimentRatio": 80, "highlight": "01:30 PM - Sentiment Spike" },
+      { "time": "02:00 PM", "mentions": 6100, "sentimentRatio": 77 },
+      { "time": "03:00 PM", "mentions": 6800, "sentimentRatio": 76 },
+      { "time": "04:00 PM", "mentions": 7950, "sentimentRatio": 75, "highlight": "04:30 PM - Peak Engagement" },
+      { "time": "05:00 PM", "mentions": 6400, "sentimentRatio": 74 },
+      { "time": "06:00 PM", "mentions": 4800, "sentimentRatio": 73 },
+      { "time": "07:00 PM", "mentions": 3200, "sentimentRatio": 74, "highlight": "07:30 PM - Trend Declined" },
+      { "time": "08:00 PM", "mentions": 1950, "sentimentRatio": 72 }
+    ]
+  }
+}

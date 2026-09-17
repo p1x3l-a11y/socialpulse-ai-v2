@@ -1,0 +1,267 @@
+{
+  "id": "cyber-security",
+  "keyword": "Cyber Security",
+  "category": "Technology & Defense",
+  "summary": "Surge in discourse around enterprise data protection, phishing vigilance, and national cybersecurity framework implementation.",
+  "lastUpdated": "Just now",
+  "overview": {
+    "totalPosts": 575,
+    "positiveSentimentPct": 65,
+    "activeUsers": 12840,
+    "trendingTopicsCount": 5,
+    "postGrowthPct": 24.8,
+    "activeUsersGrowthPct": 18.2,
+    "platformActivity": [
+      { "platform": "Twitter", "posts": 150, "engagement": 42500, "sentimentScore": 68, "color": "#0284C7" },
+      { "platform": "Telegram", "posts": 80, "engagement": 18200, "sentimentScore": 54, "color": "#0D9488" },
+      { "platform": "Instagram", "posts": 120, "engagement": 65400, "sentimentScore": 72, "color": "#2563EB" },
+      { "platform": "YouTube", "posts": 70, "engagement": 89000, "sentimentScore": 70, "color": "#DC2626" },
+      { "platform": "Reddit", "posts": 95, "engagement": 31200, "sentimentScore": 58, "color": "#EA580C" },
+      { "platform": "Facebook", "posts": 60, "engagement": 15400, "sentimentScore": 62, "color": "#1D4ED8" }
+    ],
+    "sentimentBreakdown": {
+      "positive": 65,
+      "neutral": 20,
+      "negative": 15
+    },
+    "trendingKeywords": [
+      { "keyword": "#CyberSecurityAwareness", "count": 2450, "change": "+42%" },
+      { "keyword": "Zero Trust Architecture", "count": 1890, "change": "+31%" },
+      { "keyword": "CERT-In Advisory", "count": 1420, "change": "+28%" },
+      { "keyword": "AI Ransomware Defense", "count": 1180, "change": "+65%" },
+      { "keyword": "Phishing Alert 2026", "count": 940, "change": "+19%" }
+    ]
+  },
+  "sentiment": {
+    "breakdown": {
+      "positive": 65,
+      "neutral": 20,
+      "negative": 15
+    },
+    "emotions": [
+      {
+        "emotion": "Excited",
+        "percentage": 32,
+        "count": 184,
+        "icon": "Sparkles",
+        "sampleQuote": "New AI-based malware detection tools launched by Indian tech firms are game changing!",
+        "color": "#10B981"
+      },
+      {
+        "emotion": "Supportive",
+        "percentage": 33,
+        "count": 190,
+        "icon": "ThumbsUp",
+        "sampleQuote": "Commendable move by the cyber cell conducting free security audits for colleges.",
+        "color": "#2563EB"
+      },
+      {
+        "emotion": "Angry",
+        "percentage": 15,
+        "count": 86,
+        "icon": "Flame",
+        "sampleQuote": "Another scam call pretending to be electricity board. Strict punitive action is needed!",
+        "color": "#EF4444"
+      },
+      {
+        "emotion": "Concerned",
+        "percentage": 12,
+        "count": 69,
+        "icon": "AlertTriangle",
+        "sampleQuote": "Are small businesses equipped enough to survive sophisticated state-sponsored intrusions?",
+        "color": "#F59E0B"
+      },
+      {
+        "emotion": "Sarcastic",
+        "percentage": 8,
+        "count": 46,
+        "icon": "Smile",
+        "sampleQuote": "My password123 is totally safe because nobody would ever guess it, right? 😂",
+        "color": "#64748B"
+      }
+    ],
+    "timeline": [
+      { "time": "00:00", "positive": 55, "neutral": 25, "negative": 20, "totalVolume": 45 },
+      { "time": "04:00", "positive": 58, "neutral": 24, "negative": 18, "totalVolume": 32 },
+      { "time": "08:00", "positive": 62, "neutral": 22, "negative": 16, "totalVolume": 85 },
+      { "time": "12:00", "positive": 68, "neutral": 19, "negative": 13, "totalVolume": 140 },
+      { "time": "16:00", "positive": 67, "neutral": 18, "negative": 15, "totalVolume": 165 },
+      { "time": "20:00", "positive": 65, "neutral": 20, "negative": 15, "totalVolume": 108 }
+    ]
+  },
+  "demographics": {
+    "ageGroups": [
+      { "range": "18-24", "percentage": 38, "count": 218, "color": "#2563EB" },
+      { "range": "25-34", "percentage": 42, "count": 242, "color": "#0284C7" },
+      { "range": "35-44", "percentage": 14, "count": 81, "color": "#0D9488" },
+      { "range": "45+", "percentage": 6, "count": 34, "color": "#F59E0B" }
+    ],
+    "languages": [
+      { "language": "English", "percentage": 48, "count": 276, "color": "#2563EB" },
+      { "language": "Hindi", "percentage": 32, "count": 184, "color": "#0D9488" },
+      { "language": "Telugu", "percentage": 12, "count": 69, "color": "#0284C7" },
+      { "language": "Tamil", "percentage": 8, "count": 46, "color": "#F59E0B" }
+    ],
+    "locations": [
+      { "city": "Hyderabad", "state": "Telangana", "mentions": 182, "growth": 34, "sentiment": 72, "topTrend": "Cyberabad Police Hackathon", "coordinates": { "x": 48, "y": 62 } },
+      { "city": "Bangalore", "state": "Karnataka", "mentions": 164, "growth": 29, "sentiment": 74, "topTrend": "Infosec Tech Conclave", "coordinates": { "x": 46, "y": 74 } },
+      { "city": "Delhi", "state": "NCR", "mentions": 135, "growth": 21, "sentiment": 61, "topTrend": "National Cyber Policy", "coordinates": { "x": 44, "y": 28 } },
+      { "city": "Mumbai", "state": "Maharashtra", "mentions": 94, "growth": 18, "sentiment": 64, "topTrend": "Banking Fraud Prevention", "coordinates": { "x": 34, "y": 55 } }
+    ],
+    "professions": [
+      { "profession": "Students", "percentage": 28, "count": 161, "color": "#0284C7" },
+      { "profession": "IT Professionals", "percentage": 46, "count": 265, "color": "#2563EB" },
+      { "profession": "Business", "percentage": 16, "count": 92, "color": "#0D9488" },
+      { "profession": "Government Employees", "percentage": 10, "count": 57, "color": "#F59E0B" }
+    ]
+  },
+  "trendDetection": {
+    "topTopics": [
+      { "id": "t1", "title": "AI Tools", "category": "Next-Gen Tech", "trendScore": 96, "growthPercentage": 78, "mentionCount": 3840, "sparkline": [35, 42, 58, 65, 82, 96], "status": "Surging" },
+      { "id": "t2", "title": "Cyber Security", "category": "Information Security", "trendScore": 92, "growthPercentage": 64, "mentionCount": 3120, "sparkline": [40, 48, 62, 74, 88, 92], "status": "Surging" },
+      { "id": "t3", "title": "Data Privacy", "category": "Regulatory Compliance", "trendScore": 84, "growthPercentage": 45, "mentionCount": 2480, "sparkline": [45, 52, 60, 68, 77, 84], "status": "Peaking" },
+      { "id": "t4", "title": "Digital India", "category": "Govt Initiatives", "trendScore": 81, "growthPercentage": 38, "mentionCount": 2150, "sparkline": [50, 56, 62, 69, 75, 81], "status": "Steady" },
+      { "id": "t5", "title": "Online Fraud", "category": "Crime Advisory", "trendScore": 76, "growthPercentage": 32, "mentionCount": 1820, "sparkline": [38, 44, 52, 60, 70, 76], "status": "Surging" }
+    ],
+    "viralKeywords": [
+      { "rank": 1, "keyword": "Ransomware Alert", "mentions": 3420, "growth": 82, "platform": "Twitter", "sentiment": "Negative" },
+      { "rank": 2, "keyword": "Zero Trust Security", "mentions": 2890, "growth": 65, "platform": "Reddit", "sentiment": "Positive" },
+      { "rank": 3, "keyword": "CERT-In Advisory", "mentions": 2340, "growth": 48, "platform": "Telegram", "sentiment": "Neutral" },
+      { "rank": 4, "keyword": "UPI Scam Prevention", "mentions": 1950, "growth": 39, "platform": "YouTube", "sentiment": "Positive" },
+      { "rank": 5, "keyword": "Cloud Data Shield", "mentions": 1620, "growth": 31, "platform": "Instagram", "sentiment": "Positive" }
+    ],
+    "growthTimeline": [
+      { "time": "00:00", "topic1": 35, "topic2": 40, "topic3": 45, "topic4": 50, "topic5": 38 },
+      { "time": "04:00", "topic1": 42, "topic2": 48, "topic3": 52, "topic4": 56, "topic5": 44 },
+      { "time": "08:00", "topic1": 58, "topic2": 62, "topic3": 60, "topic4": 62, "topic5": 52 },
+      { "time": "12:00", "topic1": 65, "topic2": 74, "topic3": 68, "topic4": 69, "topic5": 60 },
+      { "time": "16:00", "topic1": 82, "topic2": 88, "topic3": 77, "topic4": 75, "topic5": 70 },
+      { "time": "20:00", "topic1": 96, "topic2": 92, "topic3": 84, "topic4": 81, "topic5": 76 }
+    ]
+  },
+  "networkAnalysis": {
+    "nodes": [
+      { "id": "inf-a", "name": "Influencer A", "role": "influencer", "platform": "Twitter", "followers": "450K", "influenceScore": 95, "x": 260, "y": 180, "radius": 28, "cluster": "central" },
+      { "id": "inf-b", "name": "Influencer B", "role": "influencer", "platform": "YouTube", "followers": "320K", "influenceScore": 89, "x": 480, "y": 150, "radius": 24, "cluster": "tech_media" },
+      { "id": "inf-c", "name": "Influencer C", "role": "influencer", "platform": "Telegram", "followers": "180K", "influenceScore": 84, "x": 370, "y": 320, "radius": 22, "cluster": "cyber_ops" },
+      { "id": "f1", "name": "Followers Alpha", "role": "follower", "platform": "Twitter", "followers": "12K", "influenceScore": 45, "x": 160, "y": 120, "radius": 14, "cluster": "central" },
+      { "id": "f2", "name": "Followers Beta", "role": "follower", "platform": "Twitter", "followers": "8.5K", "influenceScore": 40, "x": 190, "y": 260, "radius": 13, "cluster": "central" },
+      { "id": "f3", "name": "Tech Reviewers", "role": "follower", "platform": "YouTube", "followers": "25K", "influenceScore": 55, "x": 580, "y": 110, "radius": 15, "cluster": "tech_media" },
+      { "id": "f4", "name": "Community Hub", "role": "follower", "platform": "Telegram", "followers": "19K", "influenceScore": 50, "x": 560, "y": 230, "radius": 14, "cluster": "tech_media" },
+      { "id": "f5", "name": "Security Analysts", "role": "follower", "platform": "Reddit", "followers": "15K", "influenceScore": 48, "x": 290, "y": 390, "radius": 14, "cluster": "cyber_ops" },
+      { "id": "f6", "name": "College Hack Club", "role": "follower", "platform": "Instagram", "followers": "9K", "influenceScore": 38, "x": 460, "y": 380, "radius": 12, "cluster": "cyber_ops" },
+      { "id": "f7", "name": "Amplification Node", "role": "amplification_node", "platform": "Cross-Platform", "followers": "50K", "influenceScore": 62, "x": 370, "y": 200, "radius": 18, "cluster": "central" }
+    ],
+    "links": [
+      { "source": "inf-a", "target": "f1", "strength": 3 },
+      { "source": "inf-a", "target": "f2", "strength": 2 },
+      { "source": "inf-a", "target": "f7", "strength": 4 },
+      { "source": "inf-b", "target": "f3", "strength": 3 },
+      { "source": "inf-b", "target": "f4", "strength": 2 },
+      { "source": "inf-b", "target": "f7", "strength": 3 },
+      { "source": "inf-c", "target": "f5", "strength": 3 },
+      { "source": "inf-c", "target": "f6", "strength": 2 },
+      { "source": "inf-c", "target": "f7", "strength": 3 },
+      { "source": "inf-a", "target": "inf-b", "strength": 2 },
+      { "source": "inf-a", "target": "inf-c", "strength": 2 }
+    ],
+    "topInfluencers": [
+      { "name": "Influencer A (Dr. Rohan V.)", "handle": "@rohan_cybersec", "platform": "Twitter", "followers": "450K", "followersCount": 450000, "influenceScore": 95, "verified": true, "reach": "1.8M" },
+      { "name": "Influencer B (TechBharat Hub)", "handle": "@techbharat_yt", "platform": "YouTube", "followers": "320K", "followersCount": 320000, "influenceScore": 89, "verified": true, "reach": "1.2M" },
+      { "name": "Influencer C (ThreatIntel Feed)", "handle": "@threat_radar", "platform": "Telegram", "followers": "180K", "followersCount": 180000, "influenceScore": 84, "verified": true, "reach": "650K" },
+      { "name": "DevSecOps Insider", "handle": "@devsec_guru", "platform": "Twitter", "followers": "95K", "followersCount": 95000, "influenceScore": 78, "verified": false, "reach": "320K" },
+      { "name": "Cyber Defense Club", "handle": "@india_cyber_hq", "platform": "Instagram", "followers": "72K", "followersCount": 72000, "influenceScore": 74, "verified": false, "reach": "240K" }
+    ],
+    "highlights": {
+      "mostInfluential": {
+        "title": "Most Influential User",
+        "name": "Influencer A (@rohan_cybersec)",
+        "handle": "@rohan_cybersec",
+        "metric": "95/100",
+        "metricLabel": "Influence Score",
+        "platform": "Twitter",
+        "growth": "+14.2% reach",
+        "description": "Drives 38% of total viral re-tweets across security advisories."
+      },
+      "fastestGrowing": {
+        "title": "Fastest Growing User",
+        "name": "Influencer B (@techbharat_yt)",
+        "handle": "@techbharat_yt",
+        "metric": "+24.5K",
+        "metricLabel": "New Followers / 24h",
+        "platform": "YouTube",
+        "growth": "+45.8% velocity",
+        "description": "Educational breakdown video gained 480k views in 6 hours."
+      },
+      "highestEngagement": {
+        "title": "Highest Engagement User",
+        "name": "Influencer C (@threat_radar)",
+        "handle": "@threat_radar",
+        "metric": "18.4%",
+        "metricLabel": "Avg Interaction Rate",
+        "platform": "Telegram",
+        "growth": "Top response speed",
+        "description": "Active community discussion on prompt zero-day alerts."
+      }
+    }
+  },
+  "timelineAnalysis": {
+    "events": [
+      {
+        "time": "09:00 AM",
+        "title": "Keyword started trending",
+        "description": "Initial surge detected across Reddit r/developersIndia and Telegram infosec channels discussing new vulnerability advisory.",
+        "platform": "Telegram & Reddit",
+        "sentiment": "Neutral",
+        "reach": "12.4K accounts"
+      },
+      {
+        "time": "11:00 AM",
+        "title": "Influencer shared post",
+        "description": "Influencer A (@rohan_cybersec) published a verified breakdown thread, initiating massive cross-platform reposts.",
+        "platform": "Twitter",
+        "sentiment": "Positive",
+        "reach": "180K impressions"
+      },
+      {
+        "time": "01:00 PM",
+        "title": "Sentiment spike detected",
+        "description": "Public sentiment spiked to 68% positive as major security firms announced immediate automated patch deployment.",
+        "platform": "Cross-Platform",
+        "sentiment": "Positive",
+        "reach": "410K engagements"
+      },
+      {
+        "time": "04:00 PM",
+        "title": "Peak engagement",
+        "description": "Highest interaction density achieved with over 1,200 mentions/minute, trending #1 under Technology across India.",
+        "platform": "YouTube & Twitter",
+        "sentiment": "Positive",
+        "reach": "890K impressions"
+      },
+      {
+        "time": "07:00 PM",
+        "title": "Trend declined",
+        "description": "Conversation volume plateaued into normalized evening discussion; sentiment stabilized at 65% positive.",
+        "platform": "All Channels",
+        "sentiment": "Neutral",
+        "reach": "Residual 35K/hr"
+      }
+    ],
+    "mentionsVsTime": [
+      { "time": "08:00 AM", "mentions": 120, "sentimentRatio": 52 },
+      { "time": "09:00 AM", "mentions": 480, "sentimentRatio": 56, "highlight": "09:00 AM - Started Trending" },
+      { "time": "10:00 AM", "mentions": 920, "sentimentRatio": 60 },
+      { "time": "11:00 AM", "mentions": 1840, "sentimentRatio": 65, "highlight": "11:00 AM - Influencer Shared" },
+      { "time": "12:00 PM", "mentions": 2650, "sentimentRatio": 68 },
+      { "time": "01:00 PM", "mentions": 3400, "sentimentRatio": 72, "highlight": "01:00 PM - Sentiment Spike" },
+      { "time": "02:00 PM", "mentions": 3950, "sentimentRatio": 70 },
+      { "time": "03:00 PM", "mentions": 4300, "sentimentRatio": 69 },
+      { "time": "04:00 PM", "mentions": 5120, "sentimentRatio": 68, "highlight": "04:00 PM - Peak Engagement" },
+      { "time": "05:00 PM", "mentions": 4200, "sentimentRatio": 67 },
+      { "time": "06:00 PM", "mentions": 3100, "sentimentRatio": 66 },
+      { "time": "07:00 PM", "mentions": 1850, "sentimentRatio": 65, "highlight": "07:00 PM - Trend Declined" },
+      { "time": "08:00 PM", "mentions": 1100, "sentimentRatio": 64 }
+    ]
+  }
+}

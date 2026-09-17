@@ -1,0 +1,266 @@
+{
+  "id": "digital-india",
+  "keyword": "Digital India",
+  "category": "Governance & Public Infrastructure",
+  "summary": "High sentiment discussions surrounding UPI international expansion, DigiLocker integration, and semiconductor manufacturing corridors.",
+  "lastUpdated": "5 mins ago",
+  "overview": {
+    "totalPosts": 640,
+    "positiveSentimentPct": 78,
+    "activeUsers": 19500,
+    "trendingTopicsCount": 5,
+    "postGrowthPct": 31.4,
+    "activeUsersGrowthPct": 26.0,
+    "platformActivity": [
+      { "platform": "Twitter", "posts": 210, "engagement": 88000, "sentimentScore": 81, "color": "#1DA1F2" },
+      { "platform": "Telegram", "posts": 70, "engagement": 16000, "sentimentScore": 72, "color": "#229ED9" },
+      { "platform": "Instagram", "posts": 140, "engagement": 92000, "sentimentScore": 84, "color": "#2563EB" },
+      { "platform": "YouTube", "posts": 90, "engagement": 115000, "sentimentScore": 79, "color": "#FF0000" },
+      { "platform": "Reddit", "posts": 65, "engagement": 28000, "sentimentScore": 68, "color": "#FF4500" },
+      { "platform": "Facebook", "posts": 65, "engagement": 34000, "sentimentScore": 76, "color": "#1877F2" }
+    ],
+    "sentimentBreakdown": {
+      "positive": 78,
+      "neutral": 14,
+      "negative": 8
+    },
+    "trendingKeywords": [
+      { "keyword": "#DigitalIndia2026", "count": 3450, "change": "+52%" },
+      { "keyword": "UPI Global Acceptance", "count": 2980, "change": "+68%" },
+      { "keyword": "India Semiconductor Mission", "count": 2150, "change": "+44%" },
+      { "keyword": "DigiLocker Healthcare", "count": 1840, "change": "+30%" },
+      { "keyword": "Rural Fiber Connectivity", "count": 1420, "change": "+25%" }
+    ]
+  },
+  "sentiment": {
+    "breakdown": {
+      "positive": 78,
+      "neutral": 14,
+      "negative": 8
+    },
+    "emotions": [
+      {
+        "emotion": "Excited",
+        "percentage": 42,
+        "count": 269,
+        "icon": "Sparkles",
+        "sampleQuote": "Paying directly via UPI in France and Singapore feels like living in the future!",
+        "color": "#10B981"
+      },
+      {
+        "emotion": "Supportive",
+        "percentage": 36,
+        "count": 230,
+        "icon": "ThumbsUp",
+        "sampleQuote": "Public digital infrastructure in India is truly world-class and inclusive.",
+        "color": "#2563EB"
+      },
+      {
+        "emotion": "Angry",
+        "percentage": 5,
+        "count": 32,
+        "icon": "Flame",
+        "sampleQuote": "Bank server timeout during peak hours is still an annoyance that needs solving.",
+        "color": "#EF4444"
+      },
+      {
+        "emotion": "Concerned",
+        "percentage": 11,
+        "count": 70,
+        "icon": "AlertTriangle",
+        "sampleQuote": "Need better digital literacy programs for senior citizens in tier-3 cities.",
+        "color": "#F59E0B"
+      },
+      {
+        "emotion": "Sarcastic",
+        "percentage": 6,
+        "count": 39,
+        "icon": "Smile",
+        "sampleQuote": "Forgot my physical wallet 3 weeks ago and haven't noticed any problem.",
+        "color": "#64748B"
+      }
+    ],
+    "timeline": [
+      { "time": "00:00", "positive": 72, "neutral": 18, "negative": 10, "totalVolume": 50 },
+      { "time": "04:00", "positive": 74, "neutral": 17, "negative": 9, "totalVolume": 40 },
+      { "time": "08:00", "positive": 77, "neutral": 15, "negative": 8, "totalVolume": 110 },
+      { "time": "12:00", "positive": 80, "neutral": 13, "negative": 7, "totalVolume": 210 },
+      { "time": "16:00", "positive": 79, "neutral": 13, "negative": 8, "totalVolume": 230 },
+      { "time": "20:00", "positive": 78, "neutral": 14, "negative": 8, "totalVolume": 160 }
+    ]
+  },
+  "demographics": {
+    "ageGroups": [
+      { "range": "18-24", "percentage": 34, "count": 218, "color": "#2563EB" },
+      { "range": "25-34", "percentage": 44, "count": 282, "color": "#06B6D4" },
+      { "range": "35-44", "percentage": 15, "count": 96, "color": "#10B981" },
+      { "range": "45+", "percentage": 7, "count": 44, "color": "#F59E0B" }
+    ],
+    "languages": [
+      { "language": "Hindi", "percentage": 42, "count": 269, "color": "#0D9488" },
+      { "language": "English", "percentage": 38, "count": 243, "color": "#3B82F6" },
+      { "language": "Telugu", "percentage": 11, "count": 70, "color": "#64748B" },
+      { "language": "Tamil", "percentage": 9, "count": 58, "color": "#F97316" }
+    ],
+    "locations": [
+      { "city": "Delhi", "state": "NCR", "mentions": 240, "growth": 35, "sentiment": 80, "topTrend": "Ministry of Electronics Summit", "coordinates": { "x": 44, "y": 28 } },
+      { "city": "Bangalore", "state": "Karnataka", "mentions": 190, "growth": 31, "sentiment": 84, "topTrend": "Fintech Innovation Sandbox", "coordinates": { "x": 46, "y": 74 } },
+      { "city": "Hyderabad", "state": "Telangana", "mentions": 150, "growth": 28, "sentiment": 79, "topTrend": "Digital Health Card Rollout", "coordinates": { "x": 48, "y": 62 } },
+      { "city": "Mumbai", "state": "Maharashtra", "mentions": 130, "growth": 22, "sentiment": 76, "topTrend": "RBI Digital Rupee Pilots", "coordinates": { "x": 34, "y": 55 } }
+    ],
+    "professions": [
+      { "profession": "IT Professionals", "percentage": 38, "count": 243, "color": "#3B82F6" },
+      { "profession": "Business", "percentage": 28, "count": 179, "color": "#10B981" },
+      { "profession": "Students", "percentage": 22, "count": 141, "color": "#64748B" },
+      { "profession": "Government Employees", "percentage": 12, "count": 77, "color": "#F59E0B" }
+    ]
+  },
+  "trendDetection": {
+    "topTopics": [
+      { "id": "di-1", "title": "Digital India", "category": "National Infrastructure", "trendScore": 95, "growthPercentage": 74, "mentionCount": 4200, "sparkline": [38, 48, 62, 75, 88, 95], "status": "Surging" },
+      { "id": "di-2", "title": "UPI Everywhere", "category": "Fintech & Payments", "trendScore": 92, "growthPercentage": 68, "mentionCount": 3750, "sparkline": [42, 51, 64, 78, 86, 92], "status": "Surging" },
+      { "id": "di-3", "title": "Fab India Corridor", "category": "Semiconductors", "trendScore": 84, "growthPercentage": 52, "mentionCount": 2640, "sparkline": [40, 49, 58, 67, 76, 84], "status": "Peaking" },
+      { "id": "di-4", "title": "Data Privacy Act", "category": "Citizen Rights", "trendScore": 79, "growthPercentage": 35, "mentionCount": 1980, "sparkline": [45, 52, 60, 68, 73, 79], "status": "Steady" },
+      { "id": "di-5", "title": "Smart Cities 2.0", "category": "Urban Tech", "trendScore": 73, "growthPercentage": 27, "mentionCount": 1540, "sparkline": [39, 46, 54, 61, 68, 73], "status": "Steady" }
+    ],
+    "viralKeywords": [
+      { "rank": 1, "keyword": "UPI Goes Global", "mentions": 4120, "growth": 89, "platform": "Twitter", "sentiment": "Positive" },
+      { "rank": 2, "keyword": "Semiconductor Fab Gujarat", "mentions": 3240, "growth": 71, "platform": "YouTube", "sentiment": "Positive" },
+      { "rank": 3, "keyword": "DigiYatra Airport Ease", "mentions": 2680, "growth": 54, "platform": "Instagram", "sentiment": "Positive" },
+      { "rank": 4, "keyword": "Rural 5G Rollout", "mentions": 2040, "growth": 38, "platform": "Facebook", "sentiment": "Positive" },
+      { "rank": 5, "keyword": "Cyber Security Literacy", "mentions": 1780, "growth": 32, "platform": "Telegram", "sentiment": "Neutral" }
+    ],
+    "growthTimeline": [
+      { "time": "00:00", "topic1": 38, "topic2": 42, "topic3": 40, "topic4": 45, "topic5": 39 },
+      { "time": "04:00", "topic1": 48, "topic2": 51, "topic3": 49, "topic4": 52, "topic5": 46 },
+      { "time": "08:00", "topic1": 62, "topic2": 64, "topic3": 58, "topic4": 60, "topic5": 54 },
+      { "time": "12:00", "topic1": 75, "topic2": 78, "topic3": 67, "topic4": 68, "topic5": 61 },
+      { "time": "16:00", "topic1": 88, "topic2": 86, "topic3": 76, "topic4": 73, "topic5": 68 },
+      { "time": "20:00", "topic1": 95, "topic2": 92, "topic3": 84, "topic4": 79, "topic5": 73 }
+    ]
+  },
+  "networkAnalysis": {
+    "nodes": [
+      { "id": "inf-di-1", "name": "GovTech Today", "role": "influencer", "platform": "Twitter", "followers": "520K", "influenceScore": 94, "x": 270, "y": 175, "radius": 28, "cluster": "central" },
+      { "id": "inf-di-2", "name": "Fintech Frontiers", "role": "influencer", "platform": "YouTube", "followers": "410K", "influenceScore": 90, "x": 490, "y": 145, "radius": 25, "cluster": "tech_media" },
+      { "id": "inf-di-3", "name": "Policy & Citizen", "role": "influencer", "platform": "Telegram", "followers": "190K", "influenceScore": 83, "x": 380, "y": 325, "radius": 22, "cluster": "cyber_ops" },
+      { "id": "di-f1", "name": "Fintech Enthusiasts", "role": "follower", "platform": "Twitter", "followers": "22K", "influenceScore": 51, "x": 165, "y": 125, "radius": 14, "cluster": "central" },
+      { "id": "di-f2", "name": "Citizen Grievances", "role": "follower", "platform": "Twitter", "followers": "14K", "influenceScore": 46, "x": 185, "y": 265, "radius": 13, "cluster": "central" },
+      { "id": "di-f3", "name": "Hardware Innovators", "role": "follower", "platform": "YouTube", "followers": "31K", "influenceScore": 56, "x": 590, "y": 120, "radius": 15, "cluster": "tech_media" },
+      { "id": "di-f4", "name": "Digital Village Network", "role": "follower", "platform": "Facebook", "followers": "28K", "influenceScore": 52, "x": 565, "y": 240, "radius": 14, "cluster": "tech_media" },
+      { "id": "di-f5", "name": "Public Policy Students", "role": "follower", "platform": "Reddit", "followers": "17K", "influenceScore": 47, "x": 285, "y": 395, "radius": 13, "cluster": "cyber_ops" },
+      { "id": "di-f6", "name": "E-Governance Guild", "role": "follower", "platform": "Instagram", "followers": "12K", "influenceScore": 41, "x": 470, "y": 385, "radius": 12, "cluster": "cyber_ops" },
+      { "id": "di-f7", "name": "India Tech Wire", "role": "amplification_node", "platform": "Cross-Platform", "followers": "92K", "influenceScore": 76, "x": 375, "y": 205, "radius": 19, "cluster": "central" }
+    ],
+    "links": [
+      { "source": "inf-di-1", "target": "di-f1", "strength": 3 },
+      { "source": "inf-di-1", "target": "di-f2", "strength": 3 },
+      { "source": "inf-di-1", "target": "di-f7", "strength": 5 },
+      { "source": "inf-di-2", "target": "di-f3", "strength": 4 },
+      { "source": "inf-di-2", "target": "di-f4", "strength": 3 },
+      { "source": "inf-di-2", "target": "di-f7", "strength": 4 },
+      { "source": "inf-di-3", "target": "di-f5", "strength": 3 },
+      { "source": "inf-di-3", "target": "di-f6", "strength": 2 },
+      { "source": "inf-di-3", "target": "di-f7", "strength": 3 },
+      { "source": "inf-di-1", "target": "inf-di-2", "strength": 3 }
+    ],
+    "topInfluencers": [
+      { "name": "GovTech Today (Vikram Nair)", "handle": "@govtech_in", "platform": "Twitter", "followers": "520K", "followersCount": 520000, "influenceScore": 94, "verified": true, "reach": "2.4M" },
+      { "name": "Fintech Frontiers YT", "handle": "@fintech_frontiers", "platform": "YouTube", "followers": "410K", "followersCount": 410000, "influenceScore": 90, "verified": true, "reach": "1.7M" },
+      { "name": "Policy & Citizen Hub", "handle": "@policy_citizen", "platform": "Telegram", "followers": "190K", "followersCount": 190000, "influenceScore": 83, "verified": true, "reach": "720K" },
+      { "name": "Digital Bharat Diaries", "handle": "@bharat_digital", "platform": "Instagram", "followers": "130K", "followersCount": 130000, "influenceScore": 79, "verified": false, "reach": "480K" },
+      { "name": "E-Gov Watchdog", "handle": "@egov_watch", "platform": "Twitter", "followers": "88K", "followersCount": 88000, "influenceScore": 75, "verified": false, "reach": "310K" }
+    ],
+    "highlights": {
+      "mostInfluential": {
+        "title": "Most Influential User",
+        "name": "GovTech Today (@govtech_in)",
+        "handle": "@govtech_in",
+        "metric": "94/100",
+        "metricLabel": "Influence Score",
+        "platform": "Twitter",
+        "growth": "+19.8% monthly reach",
+        "description": "Primary authority cited on UPI volume updates and DigiLocker stats."
+      },
+      "fastestGrowing": {
+        "title": "Fastest Growing User",
+        "name": "Fintech Frontiers (@fintech_frontiers)",
+        "handle": "@fintech_frontiers",
+        "metric": "+31.2K",
+        "metricLabel": "New Followers / 24h",
+        "platform": "YouTube",
+        "growth": "+52.4% velocity",
+        "description": "Explainer on cross-border QR code linkages hit #3 trending."
+      },
+      "highestEngagement": {
+        "title": "Highest Engagement User",
+        "name": "Policy & Citizen (@policy_citizen)",
+        "handle": "@policy_citizen",
+        "metric": "21.6%",
+        "metricLabel": "Avg Interaction Rate",
+        "platform": "Telegram",
+        "growth": "High community poll turnout",
+        "description": "Citizens actively report localized feedback on village digital kiosks."
+      }
+    }
+  },
+  "timelineAnalysis": {
+    "events": [
+      {
+        "time": "09:00 AM",
+        "title": "Keyword started trending",
+        "description": "Official press release highlighting 15 billion monthly UPI transactions created widespread momentum.",
+        "platform": "Twitter & LinkedIn",
+        "sentiment": "Positive",
+        "reach": "18.2K accounts"
+      },
+      {
+        "time": "11:30 AM",
+        "title": "Influencer shared post",
+        "description": "GovTech Today broke down the cost savings and inclusion metrics for rural merchants.",
+        "platform": "Twitter",
+        "sentiment": "Positive",
+        "reach": "260K impressions"
+      },
+      {
+        "time": "01:15 PM",
+        "title": "Sentiment spike detected",
+        "description": "Positive sentiment surged to 82% as international travelers shared viral clips paying at Paris cafes using UPI.",
+        "platform": "Instagram & YouTube",
+        "sentiment": "Positive",
+        "reach": "530K engagements"
+      },
+      {
+        "time": "04:15 PM",
+        "title": "Peak engagement",
+        "description": "High discussion velocity across all tiers, trending #1 under Economy and Governance.",
+        "platform": "Cross-Platform",
+        "sentiment": "Positive",
+        "reach": "1.1M impressions"
+      },
+      {
+        "time": "07:00 PM",
+        "title": "Trend declined",
+        "description": "Discussions settled into constructive recommendations on cybersecurity safeguards.",
+        "platform": "All Channels",
+        "sentiment": "Neutral",
+        "reach": "Residual 45K/hr"
+      }
+    ],
+    "mentionsVsTime": [
+      { "time": "08:00 AM", "mentions": 180, "sentimentRatio": 70 },
+      { "time": "09:00 AM", "mentions": 620, "sentimentRatio": 74, "highlight": "09:00 AM - Started Trending" },
+      { "time": "10:00 AM", "mentions": 1250, "sentimentRatio": 76 },
+      { "time": "11:00 AM", "mentions": 2400, "sentimentRatio": 80, "highlight": "11:30 AM - Influencer Shared" },
+      { "time": "12:00 PM", "mentions": 3300, "sentimentRatio": 82 },
+      { "time": "01:00 PM", "mentions": 4400, "sentimentRatio": 84, "highlight": "01:15 PM - Sentiment Spike" },
+      { "time": "02:00 PM", "mentions": 4900, "sentimentRatio": 81 },
+      { "time": "03:00 PM", "mentions": 5400, "sentimentRatio": 80 },
+      { "time": "04:00 PM", "mentions": 6200, "sentimentRatio": 79, "highlight": "04:15 PM - Peak Engagement" },
+      { "time": "05:00 PM", "mentions": 5100, "sentimentRatio": 78 },
+      { "time": "06:00 PM", "mentions": 3800, "sentimentRatio": 77 },
+      { "time": "07:00 PM", "mentions": 2400, "sentimentRatio": 78, "highlight": "07:00 PM - Trend Declined" },
+      { "time": "08:00 PM", "mentions": 1450, "sentimentRatio": 77 }
+    ]
+  }
+}

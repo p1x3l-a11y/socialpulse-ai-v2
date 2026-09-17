@@ -1,0 +1,267 @@
+{
+  "id": "elections",
+  "keyword": "Elections",
+  "category": "Democracy & Civic Engagement",
+  "summary": "Multi-platform voter turnout discourse, youth voter registration trends, and manifestos analysis across constituencies.",
+  "lastUpdated": "8 mins ago",
+  "overview": {
+    "totalPosts": 920,
+    "positiveSentimentPct": 54,
+    "activeUsers": 31200,
+    "trendingTopicsCount": 6,
+    "postGrowthPct": 58.2,
+    "activeUsersGrowthPct": 44.1,
+    "platformActivity": [
+      { "platform": "Twitter", "posts": 340, "engagement": 165000, "sentimentScore": 52, "color": "#1DA1F2" },
+      { "platform": "Telegram", "posts": 110, "engagement": 42000, "sentimentScore": 48, "color": "#229ED9" },
+      { "platform": "Instagram", "posts": 190, "engagement": 128000, "sentimentScore": 62, "color": "#2563EB" },
+      { "platform": "YouTube", "posts": 130, "engagement": 185000, "sentimentScore": 56, "color": "#FF0000" },
+      { "platform": "Reddit", "posts": 80, "engagement": 49000, "sentimentScore": 49, "color": "#FF4500" },
+      { "platform": "Facebook", "posts": 70, "engagement": 38000, "sentimentScore": 55, "color": "#1877F2" }
+    ],
+    "sentimentBreakdown": {
+      "positive": 54,
+      "neutral": 24,
+      "negative": 22
+    },
+    "trendingKeywords": [
+      { "keyword": "#YouthVote2026", "count": 5200, "change": "+94%" },
+      { "keyword": "ECI Voter Turnout", "count": 4300, "change": "+72%" },
+      { "keyword": "Manifesto Comparison", "count": 3100, "change": "+48%" },
+      { "keyword": "Model Code of Conduct", "count": 2400, "change": "+34%" },
+      { "keyword": "Booth Live Stream", "count": 1950, "change": "+29%" }
+    ]
+  },
+  "sentiment": {
+    "breakdown": {
+      "positive": 54,
+      "neutral": 24,
+      "negative": 22
+    },
+    "emotions": [
+      {
+        "emotion": "Excited",
+        "percentage": 28,
+        "count": 257,
+        "icon": "Sparkles",
+        "sampleQuote": "First time voter queue was packed with college students early morning!",
+        "color": "#10B981"
+      },
+      {
+        "emotion": "Supportive",
+        "percentage": 26,
+        "count": 239,
+        "icon": "ThumbsUp",
+        "sampleQuote": "Appreciate the elderly pick-up facility provided by election volunteers.",
+        "color": "#2563EB"
+      },
+      {
+        "emotion": "Angry",
+        "percentage": 22,
+        "count": 202,
+        "icon": "Flame",
+        "sampleQuote": "Long queues at Booth #42 due to slow EVM verification need immediate fix.",
+        "color": "#EF4444"
+      },
+      {
+        "emotion": "Concerned",
+        "percentage": 14,
+        "count": 128,
+        "icon": "AlertTriangle",
+        "sampleQuote": "Misinformation clips on WhatsApp need strict debunking by the fact-check unit.",
+        "color": "#F59E0B"
+      },
+      {
+        "emotion": "Sarcastic",
+        "percentage": 10,
+        "count": 92,
+        "icon": "Smile",
+        "sampleQuote": "Politicians promising free wifi again... can we first get smooth roads? 🚗",
+        "color": "#64748B"
+      }
+    ],
+    "timeline": [
+      { "time": "00:00", "positive": 48, "neutral": 26, "negative": 26, "totalVolume": 90 },
+      { "time": "04:00", "positive": 50, "neutral": 25, "negative": 25, "totalVolume": 70 },
+      { "time": "08:00", "positive": 56, "neutral": 23, "negative": 21, "totalVolume": 280 },
+      { "time": "12:00", "positive": 58, "neutral": 22, "negative": 20, "totalVolume": 420 },
+      { "time": "16:00", "positive": 53, "neutral": 24, "negative": 23, "totalVolume": 480 },
+      { "time": "20:00", "positive": 54, "neutral": 24, "negative": 22, "totalVolume": 350 }
+    ]
+  },
+  "demographics": {
+    "ageGroups": [
+      { "range": "18-24", "percentage": 42, "count": 386, "color": "#2563EB" },
+      { "range": "25-34", "percentage": 36, "count": 331, "color": "#06B6D4" },
+      { "range": "35-44", "percentage": 14, "count": 129, "color": "#10B981" },
+      { "range": "45+", "percentage": 8, "count": 74, "color": "#F59E0B" }
+    ],
+    "languages": [
+      { "language": "Hindi", "percentage": 40, "count": 368, "color": "#0D9488" },
+      { "language": "English", "percentage": 32, "count": 294, "color": "#3B82F6" },
+      { "language": "Telugu", "percentage": 15, "count": 138, "color": "#64748B" },
+      { "language": "Tamil", "percentage": 13, "count": 120, "color": "#F97316" }
+    ],
+    "locations": [
+      { "city": "Delhi", "state": "NCR", "mentions": 380, "growth": 65, "sentiment": 55, "topTrend": "Capital Constituency Turnout", "coordinates": { "x": 44, "y": 28 } },
+      { "city": "Hyderabad", "state": "Telangana", "mentions": 240, "growth": 52, "sentiment": 58, "topTrend": "Urban Youth Voter Drive", "coordinates": { "x": 48, "y": 62 } },
+      { "city": "Mumbai", "state": "Maharashtra", "mentions": 210, "growth": 44, "sentiment": 52, "topTrend": "Suburban Voting Percentages", "coordinates": { "x": 34, "y": 55 } },
+      { "city": "Bangalore", "state": "Karnataka", "mentions": 180, "growth": 38, "sentiment": 60, "topTrend": "Tech Corridor Voter Turnout", "coordinates": { "x": 46, "y": 74 } }
+    ],
+    "professions": [
+      { "profession": "Students", "percentage": 38, "count": 350, "color": "#64748B" },
+      { "profession": "IT Professionals", "percentage": 32, "count": 294, "color": "#3B82F6" },
+      { "profession": "Business", "percentage": 18, "count": 166, "color": "#10B981" },
+      { "profession": "Government Employees", "percentage": 12, "count": 110, "color": "#F59E0B" }
+    ]
+  },
+  "trendDetection": {
+    "topTopics": [
+      { "id": "el-1", "title": "Youth Turnout", "category": "Voter Demographics", "trendScore": 97, "growthPercentage": 86, "mentionCount": 6100, "sparkline": [40, 54, 70, 81, 92, 97], "status": "Surging" },
+      { "id": "el-2", "title": "ECI Live Monitoring", "category": "Administration", "trendScore": 89, "growthPercentage": 62, "mentionCount": 4500, "sparkline": [38, 49, 61, 74, 83, 89], "status": "Surging" },
+      { "id": "el-3", "title": "Job Creation Debate", "category": "Economy & Policy", "trendScore": 84, "growthPercentage": 51, "mentionCount": 3800, "sparkline": [45, 53, 62, 70, 78, 84], "status": "Peaking" },
+      { "id": "el-4", "title": "Infra Spending Promise", "category": "Manifesto", "trendScore": 77, "growthPercentage": 36, "mentionCount": 2650, "sparkline": [42, 50, 58, 66, 72, 77], "status": "Steady" },
+      { "id": "el-5", "title": "Fact Check Verification", "category": "Combating Fake News", "trendScore": 75, "growthPercentage": 31, "mentionCount": 2100, "sparkline": [39, 46, 55, 62, 69, 75], "status": "Steady" }
+    ],
+    "viralKeywords": [
+      { "rank": 1, "keyword": "Every Vote Counts", "mentions": 5800, "growth": 98, "platform": "Twitter", "sentiment": "Positive" },
+      { "rank": 2, "keyword": "First Time Voter Selfie", "mentions": 4900, "growth": 88, "platform": "Instagram", "sentiment": "Positive" },
+      { "rank": 3, "keyword": "Constituency Live Stream", "mentions": 3850, "growth": 67, "platform": "YouTube", "sentiment": "Neutral" },
+      { "rank": 4, "keyword": "Polling Queue Delays", "mentions": 2900, "growth": 45, "platform": "Reddit", "sentiment": "Negative" },
+      { "rank": 5, "keyword": "Fact Check Portal Alert", "mentions": 2400, "growth": 39, "platform": "Telegram", "sentiment": "Neutral" }
+    ],
+    "growthTimeline": [
+      { "time": "00:00", "topic1": 40, "topic2": 38, "topic3": 45, "topic4": 42, "topic5": 39 },
+      { "time": "04:00", "topic1": 54, "topic2": 49, "topic3": 53, "topic4": 50, "topic5": 46 },
+      { "time": "08:00", "topic1": 70, "topic2": 61, "topic3": 62, "topic4": 58, "topic5": 55 },
+      { "time": "12:00", "topic1": 81, "topic2": 74, "topic3": 70, "topic4": 66, "topic5": 62 },
+      { "time": "16:00", "topic1": 92, "topic2": 83, "topic3": 78, "topic4": 72, "topic5": 69 },
+      { "time": "20:00", "topic1": 97, "topic2": 89, "topic3": 84, "topic4": 77, "topic5": 75 }
+    ]
+  },
+  "networkAnalysis": {
+    "nodes": [
+      { "id": "inf-el-1", "name": "Civic Voice India", "role": "influencer", "platform": "Twitter", "followers": "740K", "influenceScore": 96, "x": 275, "y": 170, "radius": 29, "cluster": "central" },
+      { "id": "inf-el-2", "name": "Democracy Pulse YT", "role": "influencer", "platform": "YouTube", "followers": "610K", "influenceScore": 91, "x": 485, "y": 140, "radius": 26, "cluster": "tech_media" },
+      { "id": "inf-el-3", "name": "FactCheck Dispatch", "role": "influencer", "platform": "Telegram", "followers": "270K", "influenceScore": 86, "x": 375, "y": 330, "radius": 23, "cluster": "cyber_ops" },
+      { "id": "el-f1", "name": "Youth Voters Alliance", "role": "follower", "platform": "Twitter", "followers": "38K", "influenceScore": 59, "x": 160, "y": 120, "radius": 15, "cluster": "central" },
+      { "id": "el-f2", "name": "Regional Observers", "role": "follower", "platform": "Twitter", "followers": "25K", "influenceScore": 51, "x": 180, "y": 260, "radius": 14, "cluster": "central" },
+      { "id": "el-f3", "name": "Ground Reporters", "role": "follower", "platform": "YouTube", "followers": "42K", "influenceScore": 63, "x": 590, "y": 125, "radius": 16, "cluster": "tech_media" },
+      { "id": "el-f4", "name": "Campus Debaters", "role": "follower", "platform": "Reddit", "followers": "33K", "influenceScore": 57, "x": 560, "y": 245, "radius": 15, "cluster": "tech_media" },
+      { "id": "el-f5", "name": "Constituency Volunteers", "role": "follower", "platform": "Telegram", "followers": "24K", "influenceScore": 49, "x": 280, "y": 395, "radius": 14, "cluster": "cyber_ops" },
+      { "id": "el-f6", "name": "Civic Artists Guild", "role": "follower", "platform": "Instagram", "followers": "21K", "influenceScore": 46, "x": 475, "y": 385, "radius": 13, "cluster": "cyber_ops" },
+      { "id": "el-f7", "name": "Election Broadcast Hub", "role": "amplification_node", "platform": "Cross-Platform", "followers": "110K", "influenceScore": 79, "x": 375, "y": 205, "radius": 20, "cluster": "central" }
+    ],
+    "links": [
+      { "source": "inf-el-1", "target": "el-f1", "strength": 4 },
+      { "source": "inf-el-1", "target": "el-f2", "strength": 3 },
+      { "source": "inf-el-1", "target": "el-f7", "strength": 5 },
+      { "source": "inf-el-2", "target": "el-f3", "strength": 4 },
+      { "source": "inf-el-2", "target": "el-f4", "strength": 3 },
+      { "source": "inf-el-2", "target": "el-f7", "strength": 4 },
+      { "source": "inf-el-3", "target": "el-f5", "strength": 3 },
+      { "source": "inf-el-3", "target": "el-f6", "strength": 3 },
+      { "source": "inf-el-3", "target": "el-f7", "strength": 4 },
+      { "source": "inf-el-1", "target": "inf-el-2", "strength": 3 }
+    ],
+    "topInfluencers": [
+      { "name": "Civic Voice India", "handle": "@civicvoice_in", "platform": "Twitter", "followers": "740K", "followersCount": 740000, "influenceScore": 96, "verified": true, "reach": "3.5M" },
+      { "name": "Democracy Pulse YT", "handle": "@democracypulse", "platform": "YouTube", "followers": "610K", "followersCount": 610000, "influenceScore": 91, "verified": true, "reach": "2.6M" },
+      { "name": "FactCheck Dispatch", "handle": "@factcheck_in", "platform": "Telegram", "followers": "270K", "followersCount": 270000, "influenceScore": 86, "verified": true, "reach": "1.1M" },
+      { "name": "Youth For Ballot", "handle": "@youthballot", "platform": "Instagram", "followers": "175K", "followersCount": 175000, "influenceScore": 81, "verified": false, "reach": "640K" },
+      { "name": "Voter Helpline Watch", "handle": "@voterwatch", "platform": "Twitter", "followers": "98K", "followersCount": 98000, "influenceScore": 77, "verified": false, "reach": "380K" }
+    ],
+    "highlights": {
+      "mostInfluential": {
+        "title": "Most Influential User",
+        "name": "Civic Voice India (@civicvoice_in)",
+        "handle": "@civicvoice_in",
+        "metric": "96/100",
+        "metricLabel": "Influence Score",
+        "platform": "Twitter",
+        "growth": "+28.4% monthly reach",
+        "description": "Voter turnout live dashboard links shared by over 120 verified media handles."
+      },
+      "fastestGrowing": {
+        "title": "Fastest Growing User",
+        "name": "Democracy Pulse (@democracypulse)",
+        "handle": "@democracypulse",
+        "metric": "+55.8K",
+        "metricLabel": "New Subscribers / 24h",
+        "platform": "YouTube",
+        "growth": "+78.2% velocity",
+        "description": "Ground report from key battleground constituencies trended across YouTube Home."
+      },
+      "highestEngagement": {
+        "title": "Highest Engagement User",
+        "name": "FactCheck Dispatch (@factcheck_in)",
+        "handle": "@factcheck_in",
+        "metric": "26.3%",
+        "metricLabel": "Avg Interaction Rate",
+        "platform": "Telegram",
+        "growth": "Top debunking speed",
+        "description": "Average myth-busting turnaround time under 14 minutes per claim."
+      }
+    }
+  },
+  "timelineAnalysis": {
+    "events": [
+      {
+        "time": "07:00 AM",
+        "title": "Keyword started trending",
+        "description": "Polling booths opened across phases, with early morning photos of senior citizens and first-time voters taking over X and Instagram.",
+        "platform": "Twitter & Instagram",
+        "sentiment": "Positive",
+        "reach": "35K accounts"
+      },
+      {
+        "time": "10:30 AM",
+        "title": "Influencer shared post",
+        "description": "Civic Voice India published interactive queue-wait tracker maps, driving 400k visits.",
+        "platform": "Twitter",
+        "sentiment": "Positive",
+        "reach": "480K impressions"
+      },
+      {
+        "time": "01:00 PM",
+        "title": "Sentiment spike detected",
+        "description": "ECI reported record-breaking youth turnout in Bangalore and Hyderabad tech belts.",
+        "platform": "Cross-Platform",
+        "sentiment": "Positive",
+        "reach": "820K engagements"
+      },
+      {
+        "time": "04:30 PM",
+        "title": "Peak engagement",
+        "description": "Final 2 hours of voting witnessed unprecedented social momentum and live booth updates.",
+        "platform": "Cross-Platform",
+        "sentiment": "Positive",
+        "reach": "1.8M impressions"
+      },
+      {
+        "time": "07:00 PM",
+        "title": "Trend declined",
+        "description": "Polls closed, shifting discussions into exit poll expectations and post-poll analyses.",
+        "platform": "YouTube & TV Live",
+        "sentiment": "Neutral",
+        "reach": "Residual 120K/hr"
+      }
+    ],
+    "mentionsVsTime": [
+      { "time": "07:00 AM", "mentions": 420, "sentimentRatio": 54 },
+      { "time": "08:00 AM", "mentions": 1100, "sentimentRatio": 56 },
+      { "time": "09:00 AM", "mentions": 2400, "sentimentRatio": 57, "highlight": "07:00 AM - Started Trending" },
+      { "time": "10:00 AM", "mentions": 3800, "sentimentRatio": 59 },
+      { "time": "11:00 AM", "mentions": 5200, "sentimentRatio": 61, "highlight": "10:30 AM - Influencer Shared" },
+      { "time": "12:00 PM", "mentions": 6500, "sentimentRatio": 63 },
+      { "time": "01:00 PM", "mentions": 7900, "sentimentRatio": 66, "highlight": "01:00 PM - Sentiment Spike" },
+      { "time": "02:00 PM", "mentions": 8400, "sentimentRatio": 62 },
+      { "time": "03:00 PM", "mentions": 9200, "sentimentRatio": 60 },
+      { "time": "04:00 PM", "mentions": 10800, "sentimentRatio": 58, "highlight": "04:30 PM - Peak Engagement" },
+      { "time": "05:00 PM", "mentions": 9100, "sentimentRatio": 56 },
+      { "time": "06:00 PM", "mentions": 6400, "sentimentRatio": 55 },
+      { "time": "07:00 PM", "mentions": 4200, "sentimentRatio": 54, "highlight": "07:00 PM - Trend Declined" },
+      { "time": "08:00 PM", "mentions": 2600, "sentimentRatio": 53 }
+    ]
+  }
+}
